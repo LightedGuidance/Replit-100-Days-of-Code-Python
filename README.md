@@ -1,7 +1,7 @@
 # Replit-100-Days-of-Code-Python
 
 I started on 2024-06-12 Wednesday.
-You can follow my progress at [replit.com/LightedGuidance](https://replit.com/LightedGuidance)
+You can follow my progress at [replit.com/LightedGuidance](https://replit.com/@lightedguidance)
 
 Watch on YouTube: https://youtube.com/playlist?list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0&feature=shared
 
